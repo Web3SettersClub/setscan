@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "setscan",
+  "description": "Setheum Network Blockchain Explorer - setheum-explorer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SettersClub/setscan.git"
+  },
+  "keywords": [
+    "blockchain",
+    "polkadot",
+    "substrate"
+  ],
+  "author": "Mario Pino Uceda",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SettersClub/setscan/issues"
+  },
+  "homepage": "https://github.com/SettersClub/setscan#readme",
+  "workspaces": ["api","backend","frontend", "db"],
+  "scripts": {}
+ }
+ 
